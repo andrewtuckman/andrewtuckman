@@ -3,7 +3,7 @@
 * 🔌 I manage their relationships with GitHub, Atlassian, Codacy and more
 * ♥️ I'm currently working on a Hearts game to upkeep TypeScript skills
 * 🌱 Lately I'm learning more about eventing and API automation
-* 📫 Reach me via email: andrew tuckman 2 (at) gmail (dot) com
+* 📫 Reach me via email: andrewtuckman2 (at) gmail (dot) com
 
 <!--
 **andrewtuckman/andrewtuckman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
