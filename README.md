@@ -1,6 +1,6 @@
 * 👋🏼 Hi, I'm Andrew
 * 💻 I work as a SWE II in DevOps and Platform Ecosystems at Liberty Mutual
-* 🔌 I manage their relationships with GitHub, Atlassian, Codacy and more
+* 🔌 I manage their relationships with GitHub, Bamboo, Atlassian, Codacy and more
 * ♥️ I'm currently working on a Hearts game to:
   * upkeep TypeScript/React skills
   * practice Agentic programming
