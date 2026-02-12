@@ -4,7 +4,7 @@
 * ♥️ I'm currently working on a Hearts game to:
   * upkeep TypeScript/React skills
   * practice Agentic programming
-* 🌱 Lately I'm learning more about eventing and API automation
+* 🌱 Lately I'm learning more about agentic orchestration frameworks
 * 📫 Reach me via email: andrewtuckman2 (at) gmail (dot) com
 
 <!--
