@@ -1,5 +1,5 @@
 * 👋🏼 Hi, I'm Andrew
-* 💻 I am a SDE II @ CLEAR
+* 💻 I am a Software Development Engineer II @ CLEAR
 * 🔌 I work in their CLEAR1 space on Partner Experiences
 * ♥️ I'm currently working on a Hearts game to:
   * upkeep TypeScript/React skills
