@@ -1,6 +1,6 @@
 * 👋🏼 Hi, I'm Andrew
-* 💻 I work as a SWE II in DevOps and Software Delivery at Liberty Mutual
-* 🔌 I manage their relationships with GitHub, Bamboo, Atlassian, Codacy and more
+* 💻 I am a SDE II @ CLEAR
+* 🔌 I work in their CLEAR1 space on Partner Experiences
 * ♥️ I'm currently working on a Hearts game to:
   * upkeep TypeScript/React skills
   * practice Agentic programming
